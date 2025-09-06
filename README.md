@@ -23,7 +23,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **E-GAN (Evolutionary Generative Adversarial Networks)**
+- 🔭 I’m currently working on **BROADRIDGE FINANACIAL SOLUTIONS PVT LTD**
 
 - 🌱 I’m currently learning **Parallel Computation**
 
