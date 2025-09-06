@@ -27,11 +27,11 @@
 
 - 🌱 I’m currently learning **Parallel Computation**
 
-- 👨‍💻 Know more about my projects & experiences at https://github.com/Anshika66-Gupta 
+- 👨‍💻 Know more about my projects & experiences at https://github.com/Anil-Kurup 
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
-- 📫 How to reach me **ansgupta.01@gmail.com**
+- 📫 How to reach me **anilkurup21@gmail.com**
 
 
 **Languages and Tools:**  
